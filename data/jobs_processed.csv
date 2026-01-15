@@ -1,0 +1,4 @@
+title,location,description,salary,skills
+AI Engineer,Berlin,Python machine learning deep learning SQL,70000,"['python', 'machine learning', 'deep learning', 'sql']"
+Data Scientist,Munich,Python statistics SQL pandas,65000,"['python', 'sql', 'pandas', 'statistics']"
+ML Engineer,Berlin,Python machine learning TensorFlow Docker,75000,"['python', 'machine learning', 'tensorflow', 'docker']"

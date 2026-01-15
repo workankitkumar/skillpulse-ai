@@ -1,0 +1,8 @@
+cd ~/Desktop/job-market-ainano nlp/skill_extractor.py
+/usr/bin/python3 nlp/skill_extractor.py
+
+
+clear
+ls data
+
+

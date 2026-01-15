@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.env.*
+
+# Streamlit
+.streamlit/
+
+# Data files
+data/*.csv
+data/*.pdf
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+
