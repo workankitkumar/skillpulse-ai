@@ -62,4 +62,14 @@ This project reflects both:
 ---
 
 ## 🧠 System Architecture
+Job Boards ──▶ Scraper ──▶ NLP Skill Extractor ──▶ Job Dataset
+│
+User Skills / Resume ──▶ Match Engine ─┘
+│
+Skill Gap Analysis
+│
+AI Learning Assistant
+│
+Streamlit UI
+
 
